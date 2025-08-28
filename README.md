@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deenalyst567" alt="deenalyst567" /></a> </p>
 
+
+
 - 🔭 I’m currently working on [traffic analyzer to my linkedinpage](https://www.linkedin.com/in/tenufa-dorcas-471063260/)
 
 - 🌱 I’m currently learning **JAVA, python, power Bi**
